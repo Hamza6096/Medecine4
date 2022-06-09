@@ -1,0 +1,13 @@
+Gilles est un patient
+grippe est une maladie
+Gilles contracte la maladie grippe
+Marc est un médecin (tarif: 30)
+Marc reçoit Gilles en consultation
+aspirine est un médicament (prix: 10)
+Marc prescrit aspirine à Gilles
+Marc demande 30 à Gilles
+Gilles paie 30 à Marc
+Paul est un pharmacien
+Paul vend aspirine (10) à Gilles
+Gilles paie 10 à Paul
+Gilles guérit de la maladie grippe
